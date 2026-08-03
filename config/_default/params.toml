@@ -260,3 +260,6 @@ icon = "youtube" # font awesome brand icon name
 
 [ananke.hooks]
 verbosity = "error" # debug, info, warning, error
+
+[params]
+recent_posts_number = 5
